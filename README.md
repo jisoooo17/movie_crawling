@@ -12,7 +12,7 @@ Python 3 이상
 Chrome 브라우저
 Chrome 드라이버 -->
 
-#### 필수 요구사항
+### 필수 요구사항
 
 1. Python 3 환경
 2. 라이브러리 설치(requests, BeautifulSoup, selenium)
