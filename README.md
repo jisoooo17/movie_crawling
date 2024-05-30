@@ -15,7 +15,7 @@ Chrome 드라이버 -->
 ### 필수 요구사항
 
 1. Python 3 환경
-2. 라이브러리 설치(requests, BeautifulSoup, selenium)
+2. 라이브러리 설치 - requests, BeautifulSoup, selenium
 3. Chrome 브라우저 
 4. Chrome 드라이버(Chrome 브라우저 버전과 일치하는 드라이버를 다운로드하여 PATH에 추가하거나, 코드에서 드라이버 경로를 명시적으로 지정해야 함)
 5. 이미지 파일을 저장할 폴더 생성
